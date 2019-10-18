@@ -1,0 +1,6 @@
+C:\Users\richa\source\repos\Events\EventsBankAccountDemo01\EventsBankAccountDemo01\bin\Debug\EventsBankAccountDemo01.exe.config
+C:\Users\richa\source\repos\Events\EventsBankAccountDemo01\EventsBankAccountDemo01\bin\Debug\EventsBankAccountDemo01.exe
+C:\Users\richa\source\repos\Events\EventsBankAccountDemo01\EventsBankAccountDemo01\bin\Debug\EventsBankAccountDemo01.pdb
+C:\Users\richa\source\repos\Events\EventsBankAccountDemo01\EventsBankAccountDemo01\obj\Debug\EventsBankAccountDemo01.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\Events\EventsBankAccountDemo01\EventsBankAccountDemo01\obj\Debug\EventsBankAccountDemo01.exe
+C:\Users\richa\source\repos\Events\EventsBankAccountDemo01\EventsBankAccountDemo01\obj\Debug\EventsBankAccountDemo01.pdb
